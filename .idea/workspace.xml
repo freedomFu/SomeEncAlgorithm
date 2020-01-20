@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29cb3ecb-a78f-4889-8062-a79aebceff94" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SomeEncAlgorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SomeEncAlgorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeEncAlgorithm/folm/GM/SM3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SomeEncAlgorithm/folm/GM/SM3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeEncAlgorithm/folm/GM/SM4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SomeEncAlgorithm/folm/GM/SM4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SomeEncAlgorithm/folm/GM/SM4Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/folm/GM/SM2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/folm/GM/SM2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/folm/GM/SM3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/folm/GM/SM3.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,11 +36,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunDashboard">
@@ -48,7 +56,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SM4">
+  <component name="RunManager" selected="Application.SM2">
+    <configuration name="SM2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="folm.GM.SM2" />
+      <module name="SomeEncAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="folm.GM.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SM3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="folm.GM.SM3" />
       <module name="SomeEncAlgorithm" />
@@ -90,9 +111,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SM2" />
+        <item itemvalue="Application.SM3" />
         <item itemvalue="Application.SM4" />
         <item itemvalue="Application.SM4Test" />
-        <item itemvalue="Application.SM3" />
       </list>
     </recent_temporary>
   </component>
@@ -113,6 +135,7 @@
       <workItem from="1579308038527" duration="8092000" />
       <workItem from="1579388868803" duration="8459000" />
       <workItem from="1579479808161" duration="2697000" />
+      <workItem from="1579486913333" duration="15087000" />
     </task>
     <servers />
   </component>

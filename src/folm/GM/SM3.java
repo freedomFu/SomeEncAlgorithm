@@ -171,7 +171,7 @@ public class SM3 {
         return Long.valueOf(valueStr.toString(),16).intValue();
     }
 
-    private static byte[] toByteArray(int i){
+    public static byte[] toByteArray(int i){
         byte[] byteArray = new byte[4];
         byteArray[0] = (byte)(i>>>24);
         byteArray[1] = (byte)((i&0xFFFFFF)>>>16);
