@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="29cb3ecb-a78f-4889-8062-a79aebceff94" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SomeEncAlgorithm/folm/GM/SM3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SomeEncAlgorithm/folm/GM/SM3.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +112,7 @@
       <workItem from="1579222344202" duration="9463000" />
       <workItem from="1579308038527" duration="8092000" />
       <workItem from="1579388868803" duration="8459000" />
-      <workItem from="1579479808161" duration="1437000" />
+      <workItem from="1579479808161" duration="2697000" />
     </task>
     <servers />
   </component>
